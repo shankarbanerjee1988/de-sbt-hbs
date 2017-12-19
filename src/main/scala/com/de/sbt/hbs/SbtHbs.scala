@@ -81,7 +81,7 @@ object SbtHbs extends AutoPlugin {
         moduleName := "hbs",
         shellFile := getClass.getClassLoader.getResource("handlebars-shell.js"),
 
-        taskMessage in Assets := "Handlebars compiling",
+        taskMessage in Assets := "HBS COMPILING",
         taskMessage in TestAssets := "Handlebars test compiling"
       )
   ) ++ SbtJsTask.addJsSourceFileTasks(hbs) ++ Seq(
@@ -90,5 +90,4 @@ object SbtHbs extends AutoPlugin {
   )
 
 }
-
 // vim: set ts=2 sw=2 et:
