@@ -1,0 +1,3 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/Users/shankarbanerjee/sbt-handlebars/target/scala-2.10/sbt-0.13/resource_managed/main/sbt/sbt.autoplugins,/Users/shankarbanerjee/sbt-handlebars/target/scala-2.10/sbt-0.13/classes/sbt/sbt.autoplugins)[0m
+[0m[[0mdebug[0m] [0m	(/Users/shankarbanerjee/sbt-handlebars/src/main/resources/handlebars-shell.js,/Users/shankarbanerjee/sbt-handlebars/target/scala-2.10/sbt-0.13/classes/handlebars-shell.js)[0m
